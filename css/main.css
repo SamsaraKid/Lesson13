@@ -1,0 +1,16 @@
+.wrap{
+  display: inline-block;
+  background-color: green;
+  border: black solid 5px;
+  padding: 1rem 0;
+  width: 45%;
+  height: 500px;
+  text-align: center;
+  vertical-align: top;
+}
+
+button{
+  display: inline-block;
+  width: 90%;
+  height: 100px;
+}
